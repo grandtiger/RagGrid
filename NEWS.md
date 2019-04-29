@@ -1,3 +1,8 @@
+# RagGrid 0.2.1
+
+* Update to ag-grid version 20.2.0
+
+
 # RagGrid 0.2.0
 
 * Update to ag-grid version 18.0.1
